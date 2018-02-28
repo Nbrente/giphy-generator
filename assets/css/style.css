@@ -1,0 +1,19 @@
+#btnHolder {
+  width: 75%;
+  background-color: silver;
+  padding: 1rem;
+  margin: auto;
+}
+img {
+  width: 30%;
+  height: 400px;
+  padding: 1rem;
+}
+.gif {
+  width: 65%;
+  display: block;
+  margin: auto;
+}
+body {
+  background-color: silver;
+}
